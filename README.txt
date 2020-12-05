@@ -1,3 +1,7 @@
+In this project, we are tasked to create a graph data structure from a large-scale road network. To meet varying requirements listed below, we designed an algorithm to work out the shortest path to each hospital node and compute the distance of those path. To simplify the search process, we have assumed the distance between each node to be equal and all the nodes do not carry any weight.
+To fulfill the requirements from every question, our proposed algorithm is modified and built upon the basic Breadth-First Search (BFS) algorithm. To find the top-k nearest hospital, we implement the BFS traversal in order to find the nearest path and distance for each vertex. 
+
+
 ----------------------------------------------------------------------------
 	Please follow the advices and steps below to test the program :)
 ----------------------------------------------------------------------------
