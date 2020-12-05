@@ -1,0 +1,14 @@
+Solution path from vertex 0: 0 2 
+The total distance is 1 edges
+
+
+Solution path from vertex 1: 1 2 
+The total distance is 1 edges
+
+
+Vertex 2 is a hospital.
+
+Vertex 3 is a hospital.
+
+Vertex 4 is an isolated vertex.
+
